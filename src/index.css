@@ -1,0 +1,12 @@
+body {
+  /* background: #ddeefc; */
+  background: #fff;
+
+  font-family: "Source Sans Pro", sans-serif;
+  font-size: 16px;
+  background-image: url("https://softcom.ng/uploads/headers/banner.jpg");
+}
+
+code {
+  font-family: "Source Sans Pro", sans-serif;
+}
